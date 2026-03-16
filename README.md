@@ -7,7 +7,6 @@ Project Name: Academia Hub <br>
 Group no: 10 <br>
 
 Group Members' Info:  <br>
-----------------------------------------------------
 | Name | ID | 
 | :-- | --: |
 | Abdullah Al Noman | 2022095042 |
